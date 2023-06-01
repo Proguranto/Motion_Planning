@@ -1,0 +1,14 @@
+eps: 1
+Time cost:  0.1976490020751953
+cost: 78.0
+states explored:  3003
+
+eps: 10
+Time cost:  0.18625855445861816
+cost: 110.0
+states explored:  2284
+
+eps: 20
+Time cost:  0.35789942741394043
+cost: 112.0
+states explored:  2179
